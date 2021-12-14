@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScreenShotGrabber", "ScreenShotGrabber\ScreenShotGrabber.csproj", "{BCDE4C45-C44D-478E-8079-BA7D1EAB6C4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextExtractor", "TextExtractor\TextExtractor.csproj", "{A3A522B6-3157-4714-B77B-1C189B5539BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCDE4C45-C44D-478E-8079-BA7D1EAB6C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDE4C45-C44D-478E-8079-BA7D1EAB6C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDE4C45-C44D-478E-8079-BA7D1EAB6C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDE4C45-C44D-478E-8079-BA7D1EAB6C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A522B6-3157-4714-B77B-1C189B5539BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A522B6-3157-4714-B77B-1C189B5539BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A522B6-3157-4714-B77B-1C189B5539BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A522B6-3157-4714-B77B-1C189B5539BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B82FD09-26A2-4812-B838-13710D4967FB}
+	EndGlobalSection
+EndGlobal
